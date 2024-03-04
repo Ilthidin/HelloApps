@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloApps</string>
+    <string name="text_university">Universitas Islam Sultan Agung</string>
+    <string name="text_name">Muhammad Syihab Habibi</string>
 </resources>
